@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Yong Cheng Low or YC</h1>
-<h3 align="center">Software Engineer at Glints | Trainer at Le Wagon | Computer Engineer | Sports Enthusiast</h3>
-
 <p align="left">Welcome to my Github profile! My passion lies in working with dynamic teams that create cutting-edge applications that positively impact people's lives. In my free time, I love building websites and helping others bring their ideas to life. I also teach part time to share the knowledge that I learned and to give back to the community.</p>
 
 <p align="left">To maintain a healthy work-life balance, I enjoy engaging in various sports, including badminton, running, cycling, and swimming. These activities help me stay physically and mentally sharp, allowing me to bring my best self to every project.</p>
